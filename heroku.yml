@@ -5,4 +5,4 @@ setup:
 
 build:
     docker:
-        web: docker/Dockerfile
+        web: docker/images/n8n-custom/Dockerfile
