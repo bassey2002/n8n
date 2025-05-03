@@ -4,6 +4,7 @@
   "description": "n8n Workflow Automation Tool",
   "main": "dist/index",
   "types": "dist/index.d.ts",
+  "packageManager": "npm@8.19.4",
   "oclif": {
     "commands": "./dist/commands",
     "helpClass": "./dist/help",
